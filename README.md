@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="programmer-img" src=
-<!--
-**rcwhite96/rcwhite96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img align="right" alt="programmer-img" src="![undraw_Programmer_re_owql (1)](https://user-images.githubusercontent.com/82971338/148262737-93a1dec1-5f7a-4668-92d7-d0d2de3d5af9.png)" width="500"/>
 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning more about React / Redux
@@ -12,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: via email @ rachelcwhite1996@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: In my spare time, I love to crochet and create various things with my 3D printer.
--->
