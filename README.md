@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="programmer-img" src="https://user-images.githubusercontent.com/82971338/148262737-93a1dec1-5f7a-4668-92d7-d0d2de3d5af9.png" width="500"/>
+<img align="right" alt="programmer-img" src="https://user-images.githubusercontent.com/82971338/148262737-93a1dec1-5f7a-4668-92d7-d0d2de3d5af9.png" width="400"/>
 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning more about React / Redux
