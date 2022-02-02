@@ -14,8 +14,9 @@
 
 If you are in need of a fullstack software engineer, I'm your person! Check out these links and contact me at any time:
 
-- [My Website](https://rcwhite96.github.io/)
-- [My Resume](https://rcwhite96.github.io/white_rachel_resume.pdf)
+[My Website](https://rcwhite96.github.io/)
+
+[My Resume](https://rcwhite96.github.io/white_rachel_resume.pdf)
 
 <a href="https://www.linkedin.com/in/rachel-white-419370156/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
