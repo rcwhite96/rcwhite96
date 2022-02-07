@@ -21,3 +21,6 @@ If you are in need of a fullstack software engineer, I'm your person! Check out 
 <a href="https://www.linkedin.com/in/rachel-white-419370156/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apircwhite96)](https://github.com/anuraghazra/github-readme-stats)
