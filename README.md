@@ -6,7 +6,7 @@
 - 💡  I'd love to make an app using web sockets
 - 🌱 I’m currently learning more about React / Redux
 - 🤔 I’m looking for help with React / Redux
-- 📫 How to reach me: via email @ rachelcwhite1996@gmail.com
+- 📫 How to reach me: rachelcwhite1996@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: In my spare time, I love to crochet and create various things with my 3D printer.
 
