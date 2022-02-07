@@ -23,4 +23,4 @@ If you are in need of a fullstack software engineer, I'm your person! Check out 
 </a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcwhite96)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcwhite96&show_icons=true&theme=synthwave)
