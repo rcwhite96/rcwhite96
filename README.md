@@ -13,7 +13,7 @@
 
 ### I am looking for work!
 
-If you are in need of a fullstack software engineer, I'm your person! Check out these links and contact me at any time:
+If you are in need of a software engineer, I'm your person! Check out these links and contact me at any time:
 
 [My Website](https://rcwhite96.github.io/)
 
