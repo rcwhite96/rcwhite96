@@ -15,7 +15,7 @@
 
 If you are in need of a software engineer, I'm your person! Check out these links and contact me at any time:
 
-[My Website](https://rcwhite96.github.io/) | [My Resume](https://rcwhite96.github.io/white_rachel_resume.pdf) | [LinkedIn](https://www.linkedin.com/in/rachel-white-419370156/)
+[My Portfolio](https://rcwhite96.github.io/) | [My Resume](https://rcwhite96.github.io/white_rachel_resume.pdf) | [LinkedIn](https://www.linkedin.com/in/rachel-white-419370156/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcwhite96&show_icons=true&theme=synthwave)
 
