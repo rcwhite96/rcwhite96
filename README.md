@@ -15,11 +15,7 @@
 
 If you are in need of a software engineer, I'm your person! Check out these links and contact me at any time:
 
-[My Website](https://rcwhite96.github.io/)
-
-[My Resume](https://rcwhite96.github.io/white_rachel_resume.pdf)
-
-[LinkedIn](https://www.linkedin.com/in/rachel-white-419370156/)
+[My Website](https://rcwhite96.github.io/) | [My Resume](https://rcwhite96.github.io/white_rachel_resume.pdf) | [LinkedIn](https://www.linkedin.com/in/rachel-white-419370156/)
 
 
 
